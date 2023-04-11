@@ -22,10 +22,14 @@ My email address is tshaneblack2014@gmail.com. You can reach me there with addit
 
 ## Table of Contents
 
-- [Installation](#install)
-- [Usage](#usage)
-- [Contribution](#contribution)
-- [Tests](#test)
-- [License](#license)
-- [Questions](#questions)
+- [ReadME Generator](#readme-generator)
+  - [Instillation](#instillation)
+  - [Usage](#usage)
+  - [Contributions](#contributions)
+  - [Testing](#testing)
+  - [License](#license)
+  - [Questions](#questions)
+  - [Table of Contents](#table-of-contents)
 
+A walkthrough video can be found here:
+[Untitled_ Apr 10, 2023 10_30 PM.webm](https://user-images.githubusercontent.com/122633142/231049147-efb9b7fe-9d7b-41ae-a036-9d3b70907b4c.webm)
