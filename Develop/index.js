@@ -68,7 +68,7 @@ inquirer
 //  function to initialize app
 function init(data) {
     const markdownText = markdown.generateMarkdown(data);
-    fs.writeFile('../README.md', markdownText, (err) => {
+    fs.writeFile('../Develop/README.md', markdownText, (err) => {
         err ? console.error(err) : console.log('Commit logged!')
        });
     };
