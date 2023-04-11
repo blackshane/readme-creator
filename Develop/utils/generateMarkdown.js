@@ -56,10 +56,10 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 function generateMarkdown(data) {
   const tableOfContents = [];
     // Push each section with a name property to the table of contents
-    if (data.install) tableOfContents.push({ name: 'Installation', link: '#installation' });
+    if (data.install) tableOfContents.push({ name: 'Installation', link: '#install' });
     if (data.usage) tableOfContents.push({ name: 'Usage', link: '#usage' });
-    if (data.contribution) tableOfContents.push({ name: 'Contributing', link: '#contributing' });
-    if (data.test) tableOfContents.push({ name: 'Tests', link: '#tests' });
+    if (data.contribution) tableOfContents.push({ name: 'Contribution', link: '#contribution' });
+    if (data.test) tableOfContents.push({ name: 'Tests', link: '#test' });
     if (data.license) tableOfContents.push({ name: 'License', link: '#license' });
     if (data.github) tableOfContents.push({ name: 'Questions', link: '#questions' });
 
